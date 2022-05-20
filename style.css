@@ -1,0 +1,16 @@
+body{
+    font-size: 2.5rem;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column nowrap;
+    color:white;
+    font-family:monospace;
+    background: rgb(151,100,184);
+background: linear-gradient(146deg, rgba(151,100,184,1) 36%, rgba(0,114,181,1) 100%);
+margin: 0;
+padding: 0;
+}
+
